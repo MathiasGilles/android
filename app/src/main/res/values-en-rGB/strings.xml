@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenFoodFacts</string>
+    <string name="description_photo_plat">Picture of a meal</string>
+    <string name="title_product">Petit pois et carotte</string>
+    <string name="brand_product">Cassegrains</string>
+    <string name="code_barre_product">Code barres</string>
+    <string name="quantity_product">Quantity</string>
+    <string name="where_sold_product">Sell in :</string>
+    <string name="recipe_product">Recipe</string>
+    <string name="substances_product">Substances allergènes</string>
+    <string name="additifs_product">Additifs</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mon comparateur</string>
+    <string name="description_photo_plat">Photo d\'un plat</string>
+    <string name="title_product">Petit pois et carotte</string>
+    <string name="brand_product">Cassegrains</string>
+    <string name="code_barre_product">Code barres</string>
+    <string name="quantity_product">Quantité</string>
+    <string name="where_sold_product">Vendu en : </string>
+    <string name="recipe_product">Ingrédients</string>
+    <string name="substances_product">Substances allergènes</string>
+    <string name="additifs_product">Additifs</string>
+
+</resources>
